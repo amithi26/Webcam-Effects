@@ -1,7 +1,7 @@
-# 🚀 **Interactive Grid Hologram Effect Using OpenCV & Python**
+# 🚀 **Interactive Grid Pixelation Effect Using OpenCV & Python**
 
 ## 📌 **Project Overview**
-This project creates a dynamic grid hologram effect overlay using a live webcam feed. The grid adapts to real-time GUI controls, allowing customization of cell size, circle radius, and RGB channels.
+This project creates a dynamic grid effect overlay using a live webcam feed. The grid adapts to real-time GUI controls, allowing customization of cell size, circle radius, and RGB channels.
 
 ---
 
